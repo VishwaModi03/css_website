@@ -1,0 +1,190 @@
+body{
+    margin: 0px;
+}
+.myDiv1{
+    background-color:cadetblue;
+    padding: 20px;
+}
+.nav-item{
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+    font-size: 150%;
+}
+.slider{
+    background-image: url('assets/m1.jpg');
+    height: 500px;
+    background-size: 100%;
+}
+.slider-text{
+    margin:0px;
+    color:white;
+    background-image:linear-gradient(to right,#d2c9c961,#ffffff8f);
+    position: relative;
+    top: 150px;
+    padding: 10px;
+    padding-left: 50px;
+    font-family: cursive;
+    margin-right: 0px;
+}
+.container{
+    margin: 20px;
+}
+.heading{
+    margin-top: 25px;
+    background-color: cadetblue;
+    padding: 1px;
+    padding-left: 30px;
+}
+.heading-text{
+    color: white;
+}
+.places{
+
+}
+.single-places{
+    display: inline-block;
+    width: 24%;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.place-image{
+    height: 200px;
+    width: 100%;
+}
+
+.gallery{
+
+}
+
+.gallery-image{
+    margin-top: 20px;
+}
+
+.single-image{
+    height: 200px;
+    width: 19%;
+    margin-top: 20px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.activies{
+   
+}
+.main-activity{
+    width: 100%;
+    margin-top: 20px;
+}
+.single-activity{
+    width: 49%;
+    display: inline-block;
+    height: 300px;
+}
+.activity-image-div{
+    display: inline-block;
+    background-size: 100%;
+    height: 300px;
+}
+.scuba{
+    background-image: url("assets/ml5.jpg");
+}
+.surfing{
+    background-image: url("assets/ml5.jpg");
+}
+
+.activity-text{
+    width: 49%;
+    display: inline-block;
+    text-align: justify;
+    font-size: 100%;
+    float: right;
+    background-image: linear-gradient(to right,#00e0ff57,#ffffffbf);
+    position: relative;
+    color: white;
+    top: 50px;
+    padding: 10px;
+}
+.activity-image{
+	width: 100%;
+	height: 200px;
+}
+.scuba-image{
+	margin: 0px;
+}
+.footer{
+    background-color: cadetblue;
+    overflow: auto;
+    height: 300px;
+}
+.footer-section{
+    float: left;
+    width: 30%;
+    padding: 10px;
+    text-align: justify;
+    color: white;
+    height:200px ;
+}
+.footer-nav{
+   style:none;
+}
+.footer-nav-item{
+    margin-top: 10px;
+}
+.footer-link{
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    font-size: 120%;
+}
+/* About Us Page CSS*/
+.about-contain{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: justify;
+}
+.about-text{
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px ;
+}
+.about-img{
+    width: 90%;
+   
+}
+.about-image{
+    margin-right: 20px;
+    margin-left: 20px;
+    height: 200px;
+}
+
+.our-team{
+    text-align: center;
+}
+
+.team{
+    display: flex;
+    justify-content: space-evenly;
+}
+.team p{
+    padding: 10px;
+}
+
+.member-image{
+    width: 90%;
+    height: 300px;
+}
+
+/* Contact Us Page CSS*/
+
+.contact-containt{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:;
+}
+
+.contact-img{
+    width: 100%;
+    height: 400px;
+}
